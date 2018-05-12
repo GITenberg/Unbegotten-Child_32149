@@ -1,0 +1,38 @@
+_repo: Unbegotten-Child_32149
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Vidmer
+    aliases:
+    - Vidmer, Rene
+    - Vidmer, René
+    gutenberg_agent_id: '34106'
+    url: http://www.gutenberg.org/2009/agents/34106
+covers:
+- cover_type: archival
+  image_path: 32149-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Marks, Winston K.
+    alias: Marks, Winston Kinney
+    birthdate: 1915
+    deathdate: 1979
+    gutenberg_agent_id: '26841'
+    url: http://www.gutenberg.org/2009/agents/26841
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32149'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pregnancy -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+title: Unbegotten Child
+url: http://www.gutenberg.org/ebooks/32149
